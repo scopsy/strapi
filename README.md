@@ -9,14 +9,8 @@
 <br />
 
 <p align="center">
-  <a href="https://www.npmjs.org/package/strapi">
-    <img src="https://img.shields.io/npm/v/strapi/latest.svg" alt="NPM Version" />
-  </a>
-  <a href="https://www.npmjs.org/package/strapi">
-    <img src="https://img.shields.io/npm/dm/strapi.svg" alt="Monthly download on NPM" />
-  </a>
-  <a href="https://discord.strapi.io">
-    <img src="https://img.shields.io/discord/811989166782021633?label=Discord" alt="Strapi on Discord" />
+  <a href="https://www.npmjs.com/package/@notifire/core">
+    <img src="https://img.shields.io/npm/v/@notifire/core/latest.svg" alt="NPM Version" />
   </a>
 </p>
 
